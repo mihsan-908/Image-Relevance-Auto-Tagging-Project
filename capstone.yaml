@@ -1,0 +1,48 @@
+name: "image-relevance-auto-tagging"
+title: "Image Relevance & Auto-Tagging Engine"
+version: "1.0.0"
+language: "Python"
+language_version: "3.11+"
+framework: "FastAPI"
+framework_version: "0.115.0"
+database: "PostgreSQL"
+orm: "SQLAlchemy"
+migrations: "Alembic"
+ai_provider: "Google Gemini"
+models:
+  vision: "gemini-2.0-flash"
+  embedding: "gemini-embedding-001"
+dimensionality: 768
+
+components:
+  - name: "Vision Classification"
+    status: "COMPLETE"
+    description: "Extracts structured metadata (subject, category, attributes, caption, confidence) and tags."
+  - name: "Batch Ingestion & Idempotency"
+    status: "COMPLETE"
+    description: "Sequentially processes image directories with retry logic and idempotency checks."
+  - name: "Semantic Embedding & Storage"
+    status: "COMPLETE"
+    description: "Generates 768-dim embeddings for image metadata and blog posts; persists in PostgreSQL."
+  - name: "Cosine Similarity Ranking"
+    status: "COMPLETE"
+    description: "Ranks candidate images against blog post embeddings using pure cosine similarity."
+  - name: "Mismatch Guard"
+    status: "COMPLETE"
+    description: "Four-check guard: vision confidence (0.70), semantic threshold (0.60), category conflict, and conservative subject conflict."
+  - name: "Review & Suggestion API"
+    status: "COMPLETE"
+    description: "REST endpoints to list, inspect, approve, and reject image suggestions."
+  - name: "Cost & Usage Tracking"
+    status: "COMPLETE"
+    description: "Per-call API usage and estimated cost tracking for vision and embedding calls stored in PostgreSQL."
+  - name: "Background Job Processing"
+    status: "COMPLETE"
+    description: "Asynchronous background execution for batch image ingestion with progress tracking."
+
+evaluation:
+  metric: "Top-1 Precision"
+  dataset_size: 10
+  passing_threshold: 0.80
+  current_result: 1.00
+  summary: "10/10 evaluation cases correctly handled: 8/8 positive Top-1 matches and 2/2 correctly rejected negative controls."

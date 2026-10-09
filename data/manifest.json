@@ -1,0 +1,317 @@
+[
+  {
+    "filename": "bear.jpg",
+    "category": "wildlife",
+    "subject": "Grizzly bear family",
+    "source": "Unsplash CC0 (existing)",
+    "file_path": "data\\images\\bear.jpg"
+  },
+  {
+    "filename": "bird.jpg",
+    "category": "wildlife",
+    "subject": "Vulture in flight",
+    "source": "Unsplash CC0 (existing)",
+    "file_path": "data\\images\\bird.jpg"
+  },
+  {
+    "filename": "fox.jpg",
+    "category": "wildlife",
+    "subject": "Jackal / Wild Fox",
+    "source": "Unsplash CC0 (existing)",
+    "file_path": "data\\images\\fox.jpg"
+  },
+  {
+    "filename": "lion.jpg",
+    "category": "wildlife",
+    "subject": "Male Lion",
+    "source": "Picsum CC0 Photo id/1020",
+    "file_path": "data\\images\\lion.jpg"
+  },
+  {
+    "filename": "tiger.jpg",
+    "category": "wildlife",
+    "subject": "Bengal Tiger",
+    "source": "Picsum CC0 Photo id/1024",
+    "file_path": "data\\images\\tiger.jpg"
+  },
+  {
+    "filename": "elephant.jpg",
+    "category": "wildlife",
+    "subject": "African Elephant",
+    "source": "Picsum CC0 Photo id/1025",
+    "file_path": "data\\images\\elephant.jpg"
+  },
+  {
+    "filename": "wolf.jpg",
+    "category": "wildlife",
+    "subject": "Timber Wolf",
+    "source": "Picsum CC0 Photo id/1062",
+    "file_path": "data\\images\\wolf.jpg"
+  },
+  {
+    "filename": "deer.jpg",
+    "category": "wildlife",
+    "subject": "Forest Deer",
+    "source": "Picsum CC0 Photo id/1069",
+    "file_path": "data\\images\\deer.jpg"
+  },
+  {
+    "filename": "eagle.jpg",
+    "category": "wildlife",
+    "subject": "Bald Eagle",
+    "source": "Picsum CC0 Photo id/1074",
+    "file_path": "data\\images\\eagle.jpg"
+  },
+  {
+    "filename": "owl.jpg",
+    "category": "wildlife",
+    "subject": "Barn Owl",
+    "source": "Picsum CC0 Photo id/1084",
+    "file_path": "data\\images\\owl.jpg"
+  },
+  {
+    "filename": "dog.jpg",
+    "category": "domestic",
+    "subject": "Black Labrador puppy",
+    "source": "Unsplash CC0 (existing)",
+    "file_path": "data\\images\\dog.jpg"
+  },
+  {
+    "filename": "cat.jpg",
+    "category": "domestic",
+    "subject": "Domestic Tabby Cat",
+    "source": "Picsum CC0 Photo id/40",
+    "file_path": "data\\images\\cat.jpg"
+  },
+  {
+    "filename": "puppy.jpg",
+    "category": "domestic",
+    "subject": "Golden Retriever Puppy",
+    "source": "Picsum CC0 Photo id/237",
+    "file_path": "data\\images\\puppy.jpg"
+  },
+  {
+    "filename": "kitten.jpg",
+    "category": "domestic",
+    "subject": "Playful Kitten",
+    "source": "Picsum CC0 Photo id/64",
+    "file_path": "data\\images\\kitten.jpg"
+  },
+  {
+    "filename": "horse.jpg",
+    "category": "domestic",
+    "subject": "Brown Farm Horse",
+    "source": "Picsum CC0 Photo id/83",
+    "file_path": "data\\images\\horse.jpg"
+  },
+  {
+    "filename": "rabbit.jpg",
+    "category": "domestic",
+    "subject": "White Pet Rabbit",
+    "source": "Picsum CC0 Photo id/169",
+    "file_path": "data\\images\\rabbit.jpg"
+  },
+  {
+    "filename": "parrot.jpg",
+    "category": "domestic",
+    "subject": "Colorful Macaw Parrot",
+    "source": "Picsum CC0 Photo id/219",
+    "file_path": "data\\images\\parrot.jpg"
+  },
+  {
+    "filename": "sheep.jpg",
+    "category": "domestic",
+    "subject": "Pasture Sheep",
+    "source": "Picsum CC0 Photo id/200",
+    "file_path": "data\\images\\sheep.jpg"
+  },
+  {
+    "filename": "goat.jpg",
+    "category": "domestic",
+    "subject": "Mountain Farm Goat",
+    "source": "Picsum CC0 Photo id/216",
+    "file_path": "data\\images\\goat.jpg"
+  },
+  {
+    "filename": "pizza.jpg",
+    "category": "food",
+    "subject": "Artisan Cheese Pizza",
+    "source": "Picsum CC0 Photo id/292",
+    "file_path": "data\\images\\pizza.jpg"
+  },
+  {
+    "filename": "burger.jpg",
+    "category": "food",
+    "subject": "Gourmet Beef Burger",
+    "source": "Picsum CC0 Photo id/429",
+    "file_path": "data\\images\\burger.jpg"
+  },
+  {
+    "filename": "pasta.jpg",
+    "category": "food",
+    "subject": "Italian Spaghetti Pasta",
+    "source": "Picsum CC0 Photo id/431",
+    "file_path": "data\\images\\pasta.jpg"
+  },
+  {
+    "filename": "salad.jpg",
+    "category": "food",
+    "subject": "Fresh Green Salad",
+    "source": "Picsum CC0 Photo id/488",
+    "file_path": "data\\images\\salad.jpg"
+  },
+  {
+    "filename": "cake.jpg",
+    "category": "food",
+    "subject": "Berry Sponge Cake",
+    "source": "Picsum CC0 Photo id/493",
+    "file_path": "data\\images\\cake.jpg"
+  },
+  {
+    "filename": "coffee.jpg",
+    "category": "food",
+    "subject": "Espresso Coffee Cup",
+    "source": "Picsum CC0 Photo id/75",
+    "file_path": "data\\images\\coffee.jpg"
+  },
+  {
+    "filename": "bread.jpg",
+    "category": "food",
+    "subject": "Artisan Sourdough Bread",
+    "source": "Picsum CC0 Photo id/365",
+    "file_path": "data\\images\\bread.jpg"
+  },
+  {
+    "filename": "fruit.jpg",
+    "category": "food",
+    "subject": "Fresh Fruit Bowl",
+    "source": "Picsum CC0 Photo id/1080",
+    "file_path": "data\\images\\fruit.jpg"
+  },
+  {
+    "filename": "soup.jpg",
+    "category": "food",
+    "subject": "Hot Vegetable Soup",
+    "source": "Picsum CC0 Photo id/1060",
+    "file_path": "data\\images\\soup.jpg"
+  },
+  {
+    "filename": "laptop.jpg",
+    "category": "technology",
+    "subject": "Modern Slim Laptop",
+    "source": "Picsum CC0 Photo id/0",
+    "file_path": "data\\images\\laptop.jpg"
+  },
+  {
+    "filename": "smartphone.jpg",
+    "category": "technology",
+    "subject": "Smartphone Display",
+    "source": "Picsum CC0 Photo id/160",
+    "file_path": "data\\images\\smartphone.jpg"
+  },
+  {
+    "filename": "server_rack.jpg",
+    "category": "technology",
+    "subject": "Data Center Server Rack",
+    "source": "Picsum CC0 Photo id/60",
+    "file_path": "data\\images\\server_rack.jpg"
+  },
+  {
+    "filename": "circuit_board.jpg",
+    "category": "technology",
+    "subject": "Electronics Circuit Board",
+    "source": "Picsum CC0 Photo id/201",
+    "file_path": "data\\images\\circuit_board.jpg"
+  },
+  {
+    "filename": "keyboard.jpg",
+    "category": "technology",
+    "subject": "Mechanical Computer Keyboard",
+    "source": "Picsum CC0 Photo id/370",
+    "file_path": "data\\images\\keyboard.jpg"
+  },
+  {
+    "filename": "headphones.jpg",
+    "category": "technology",
+    "subject": "Over-ear Audio Headphones",
+    "source": "Picsum CC0 Photo id/180",
+    "file_path": "data\\images\\headphones.jpg"
+  },
+  {
+    "filename": "microchip.jpg",
+    "category": "technology",
+    "subject": "Semiconductor Microchip",
+    "source": "Picsum CC0 Photo id/3",
+    "file_path": "data\\images\\microchip.jpg"
+  },
+  {
+    "filename": "data_center.jpg",
+    "category": "technology",
+    "subject": "Cloud Infrastructure Data Center",
+    "source": "Picsum CC0 Photo id/48",
+    "file_path": "data\\images\\data_center.jpg"
+  },
+  {
+    "filename": "tablet.jpg",
+    "category": "technology",
+    "subject": "Digital Tablet Device",
+    "source": "Picsum CC0 Photo id/119",
+    "file_path": "data\\images\\tablet.jpg"
+  },
+  {
+    "filename": "mountain.jpg",
+    "category": "nature",
+    "subject": "Snowy Mountain Peak",
+    "source": "Picsum CC0 Photo id/10",
+    "file_path": "data\\images\\mountain.jpg"
+  },
+  {
+    "filename": "waterfall.jpg",
+    "category": "nature",
+    "subject": "Tropical Waterfall",
+    "source": "Picsum CC0 Photo id/28",
+    "file_path": "data\\images\\waterfall.jpg"
+  },
+  {
+    "filename": "desert.jpg",
+    "category": "nature",
+    "subject": "Arid Sand Dunes Desert",
+    "source": "Picsum CC0 Photo id/1015",
+    "file_path": "data\\images\\desert.jpg"
+  },
+  {
+    "filename": "forest.jpg",
+    "category": "nature",
+    "subject": "Pine Tree Forest",
+    "source": "Picsum CC0 Photo id/1043",
+    "file_path": "data\\images\\forest.jpg"
+  },
+  {
+    "filename": "ocean.jpg",
+    "category": "nature",
+    "subject": "Open Ocean Waves",
+    "source": "Picsum CC0 Photo id/1000",
+    "file_path": "data\\images\\ocean.jpg"
+  },
+  {
+    "filename": "sunset.jpg",
+    "category": "nature",
+    "subject": "Vibrant Horizon Sunset",
+    "source": "Picsum CC0 Photo id/1002",
+    "file_path": "data\\images\\sunset.jpg"
+  },
+  {
+    "filename": "canyon.jpg",
+    "category": "nature",
+    "subject": "Deep Rock Canyon",
+    "source": "Picsum CC0 Photo id/1018",
+    "file_path": "data\\images\\canyon.jpg"
+  },
+  {
+    "filename": "beach.jpg",
+    "category": "nature",
+    "subject": "Tropical Sandy Beach",
+    "source": "Picsum CC0 Photo id/1050",
+    "file_path": "data\\images\\beach.jpg"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "eval_01",
+    "title": "Bears in the Wilderness",
+    "content": "A detailed documentary on grizzly bears hunting salmon in northern river currents during summer.",
+    "expected_subject": "Grizzly bear family",
+    "expected_category": "wildlife",
+    "expected_filename": "bear.jpg",
+    "description": "Article focused on bears; expects bear.jpg as Top-1"
+  },
+  {
+    "id": "eval_02",
+    "title": "Black Labrador Retriever Puppies",
+    "content": "Caring for a playful black Labrador puppy at home with training tips and domestic care routines.",
+    "expected_subject": "black Labrador puppy",
+    "expected_category": "domestic",
+    "expected_filename": "dog.jpg",
+    "description": "Article focused on domestic dog puppy; expects dog.jpg as Top-1"
+  },
+  {
+    "id": "eval_03",
+    "title": "Vultures and Scavenger Birds",
+    "content": "Exploring birds of prey and scavengers in the wild, particularly vultures soaring over arid plains.",
+    "expected_subject": "vulture",
+    "expected_category": "wildlife",
+    "expected_filename": "bird.jpg",
+    "description": "Article focused on vultures; expects bird.jpg as Top-1"
+  },
+  {
+    "id": "eval_04",
+    "title": "Jackal Behavior in the Wild",
+    "content": "Observing jackals roaming dry terrain and savannah grasslands during early dawn.",
+    "expected_subject": "Jackal",
+    "expected_category": "wildlife",
+    "expected_filename": "fox.jpg",
+    "description": "Article focused on wild jackals; expects fox.jpg (identified as Jackal) as Top-1"
+  },
+  {
+    "id": "eval_05",
+    "title": "Grizzly Bear Hibernation Habits",
+    "content": "How grizzly bear families prepare their dens for the freezing winter months in subalpine woods.",
+    "expected_subject": "Grizzly bear family",
+    "expected_category": "wildlife",
+    "expected_filename": "bear.jpg",
+    "description": "Article focused on grizzly bears; expects bear.jpg as Top-1"
+  },
+  {
+    "id": "eval_06",
+    "title": "Adopt a Friendly Puppy Companion",
+    "content": "Welcoming a young domestic dog into your family, with leash training and home nutrition advice.",
+    "expected_subject": "black Labrador puppy",
+    "expected_category": "domestic",
+    "expected_filename": "dog.jpg",
+    "description": "Article on domestic dogs and puppies; expects dog.jpg as Top-1"
+  },
+  {
+    "id": "eval_07",
+    "title": "Soaring Wings: Birds in Flight",
+    "content": "An overview of large birds gliding on thermal updrafts across open wilderness skies.",
+    "expected_subject": "vulture",
+    "expected_category": "wildlife",
+    "expected_filename": "bird.jpg",
+    "description": "Article on soaring birds; expects bird.jpg as Top-1"
+  },
+  {
+    "id": "eval_08",
+    "title": "Wild Canids: Jackals and Scavengers",
+    "content": "Examining wild canids such as jackals, their territory marking, and social pack dynamics.",
+    "expected_subject": "Jackal",
+    "expected_category": "wildlife",
+    "expected_filename": "fox.jpg",
+    "description": "Article on jackals and wild canids; expects fox.jpg as Top-1"
+  },
+  {
+    "id": "eval_09",
+    "title": "Modern Cloud Server Optimization",
+    "content": "Architecting containerized cloud computing infrastructure with PostgreSQL databases and Kubernetes clusters.",
+    "expected_subject": null,
+    "expected_category": null,
+    "expected_filename": null,
+    "description": "Unrelated tech article: should have NO accepted images due to mismatch guard"
+  },
+  {
+    "id": "eval_10",
+    "title": "Italian Pasta Recipes and Culinary Traditions",
+    "content": "Traditional homemade spaghetti pasta recipe with fresh tomato sauce and culinary herbs.",
+    "expected_subject": null,
+    "expected_category": null,
+    "expected_filename": null,
+    "description": "Culinary recipe article: should have NO accepted animal images due to mismatch guard"
+  }
+]

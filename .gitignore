@@ -1,0 +1,26 @@
+# Virtual Environments
+venv/
+env/
+
+# Python Cache & Testing
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Secrets & Environment Variables
+.env
+.env.*
+!.env.example
+
+# Temporary Development Files
+scratch/
+
+# IDEs and Editors
+.idea/
+.vscode/
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
